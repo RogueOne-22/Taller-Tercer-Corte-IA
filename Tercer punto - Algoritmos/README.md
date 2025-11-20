@@ -1,6 +1,6 @@
 # 🚀 Algoritmos y Tecnologías en IA (2025)
 
-![Badge](https://img.shields.io/badge/AI-State%20of%20the%20Art-blueviolet) ![Badge](https://img.shields.io/badge/Industry-Vs-Academia-orange) ![Badge](https://img.shields.io/badge/Documentation-Technical-blue)
+![Badge](https://img.shields.io/badge/Documentation-Technical-blue)
 
 > Este documento sirve como compendio técnico sobre los algoritmos, arquitecturas y técnicas más predominantes en el ecosistema de Inteligencia Artificial actual, destacando sus aplicaciones prácticas y diferencias de implementación.
 
@@ -13,7 +13,7 @@
 
 | Algoritmo | Uso Principal | Características Clave |
 | :--- | :--- | :--- |
-| **XGBoost** | **Industria (Estándar)** | El caballo de batalla. Optimizado para velocidad y rendimiento. Usa regularización L1/L2 para evitar overfitting. |
+| **XGBoost** | **Industria (Estándar)** | Optimizado para velocidad y rendimiento. Usa regularización L1/L2 para evitar overfitting. |
 | **LightGBM** | **Big Data / Kaggle** | Desarrollado por Microsoft. Usa un crecimiento de árbol "leaf-wise" (por hojas) en lugar de por niveles. Es drásticamente más rápido y consume menos memoria. |
 | **CatBoost** | **Datos Categóricos** | Desarrollado por Yandex. Maneja variables categóricas (ej. "Rojo", "Azul") automáticamente sin necesidad de *One-Hot Encoding* previo. |
 
@@ -108,4 +108,5 @@ La arquitectura **Transformer** ha desplazado a todas las anteriores (RNN, LSTM)
 ***
 
 ## Autor
+
 ### Paula S
