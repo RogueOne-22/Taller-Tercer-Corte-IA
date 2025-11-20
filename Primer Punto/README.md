@@ -1,14 +1,6 @@
 # 📘 Aprendizaje por Refuerzo
 
 > **Este documento responde tres preguntas fundamentales sobre aprendizaje por refuerzo**
-
----
-
-## 📋 Índice de Contenidos
-1. [Optimización bajo Incertidumbre (Pregunta A)](#a-¿cómo-puede-un-agente-aprender-a-tomar-decisiones-óptimas-en-un-entorno-incierto)
-2. [Taxonomía y Arquitecturas (Pregunta B)](#b-¿cuáles-son-los-tipos-de-algoritmos-y-sus-arquitecturas)
-3. [Aplicaciones Industriales (Pregunta C)](#c-en-la-industria-estos-algoritmos-para-qué-se-utilizan)
-
 ---
 
 ## 1. ¿Cómo puede un agente aprender a tomar decisiones óptimas en un entorno incierto? 🎲
