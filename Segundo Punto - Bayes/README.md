@@ -2,13 +2,14 @@
 
 ![Badge](https://img.shields.io/badge/IA-Naive%20Bayes-blue) ![Badge](https://img.shields.io/badge/Python-3.x-yellow) ![Badge](https://img.shields.io/badge/Status-Robust-green)
 
-> **¿Qué es esto?** > Este ejemplo es capaz de "leer" tus correos y decidir automáticamente si son **SPAM** (basura) o **HAM** (correo legítimo), usando la probabilidad estadística. 🧠✨
+> **¿Qué es esto?** 
+> Este ejemplo es capaz de "leer" tus correos y decidir automáticamente si son **SPAM** (basura) o **HAM** (correo legítimo), usando la probabilidad estadística. 🧠✨
 
 ---
 
 ## 🔍 Teorema de Bayes
 
-Es una fórmula matemática que nos ayuda a actualizar nuestras diccionario cuando tenemos nueva evidencia. Se puede representar como una balanza, por ejemplo:
+Es una fórmula matemática que nos ayuda a actualizar nuestro diccionario cuando tenemos nueva evidencia. Se puede representar como una balanza, por ejemplo:
 
 * La sospecha inicial ()"El 30% de todo es spam").
 * Cada palabra del correo es un "peso" que ponemos en la balanza.
@@ -17,7 +18,7 @@ Es una fórmula matemática que nos ayuda a actualizar nuestras diccionario cuan
 
 ![Diagrama Naive Bayes](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bayes%27_Theorem_MMB_01.jpg/640px-Bayes%27_Theorem_MMB_01.jpg)
 
-El algoritmo multiplica las probabilidades de todas las palabras para tomar la decisión final. Se llama **"Naive" (Ingenuo)** porque asume que las palabras no tienen relación entre sí.
+#### El algoritmo multiplica las probabilidades de todas las palabras para tomar la decisión final. Se llama **"Naive** porque asume que las palabras no tienen relación entre sí.
 ---
 
 ## 💪Cambios
